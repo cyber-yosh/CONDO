@@ -1,4 +1,4 @@
-## ConDo: *Con*trastive *Do*main Generalization
+## ConDo: *Con*trastive *Do*main Generalization For Domain Shift In Histopathology Images
 <img width="677" height="486" alt="Screenshot 2025-12-08 at 11 53 42 PM" src="https://github.com/user-attachments/assets/3af069ec-5142-4046-bfe4-ecc1602d8019" />
 
 A PyTorch implementation of my Independent Study project.

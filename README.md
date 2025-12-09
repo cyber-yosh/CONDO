@@ -1,7 +1,9 @@
 ## ConDo: *Con*trastive *Do*main Generalization
- 
+<img width="677" height="486" alt="Screenshot 2025-12-08 at 11 53 42 PM" src="https://github.com/user-attachments/assets/3af069ec-5142-4046-bfe4-ecc1602d8019" />
+
 A PyTorch implementation of my Independent Study project.
 
+This project uses the **CAMELYON16** dataset for lymph node metastasis detection in whole-slide histopathology images, which can be found [here](https://camelyon16.grand-challenge.org/Data/).
 ## Results
 
 **Table: Precision (P), Recall (R), and F1-score (F1) for tumor and normal classes across RUMC and UMCU domains. Best results are in bold.**

@@ -10,13 +10,11 @@ from shapely.geometry import Polygon, box
 from shapely.ops import unary_union
 from tqdm import tqdm
 
-# --- Configuration ---
 TRAINING_ROOT = "/path/to/training/data"
 PATCH_SIZE = 256
 TISSUE_THRESHOLD = 0.7
 TUMOR_OVERLAP_THRESHOLD = 0.5  # Minimum overlap to be labeled as tumor
 
-# --- Path Configurations ---
 NORMAL_DIR = os.path.join(TRAINING_ROOT, "normal")
 OUTPUT_NORMAL = os.path.join(TRAINING_ROOT, "normal_patches")
 

@@ -1,3 +1,3 @@
-## ConDo: Contrastive learning for Domain generalization
-
-This is the PyTorch implementation of my Independent Study project.
+## ConDo: <b>Con</b>trastive <b>Do</b>main Generalization
+ 
+A PyTorch implementation of my Independent Study project.
